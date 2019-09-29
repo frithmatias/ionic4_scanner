@@ -9,6 +9,10 @@
     "deprecation": {
       "severity": "warn"
     },
+    "indent": [
+      true,
+      "tabs"
+    ],
     "import-blacklist": [
       true,
       "rxjs/Rx"
